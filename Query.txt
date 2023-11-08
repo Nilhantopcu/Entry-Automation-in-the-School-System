@@ -1,4 +1,4 @@
-QUERY:
+QUERIES:
 1. List the students of a department D in form [studentId, student name, e-mail(s), grad or undergrad]
 select s.studentID ,s.sname as "Student Name", e.email as "e-mail" ,c.gradorugrad 
 from student s , emails e, curricula c,department d 
