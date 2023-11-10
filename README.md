@@ -20,7 +20,7 @@ The project consists of three parts:
 
 2. **MySQL Database Implementation**: The ER diagram from the first part was implemented as a relational schema in MySQL. Data was entered into the created tables, and SQL queries were used to retrieve data.
  
-3. **Graphical User Interface (GUI)**: A user interface was designed to connect to the remote database. HTML and CSS were employed to create this interface, while PHP was used to establish a connection with the database. This part focuses on providing specific services to end-users based on the database.
+3. **Graphical User Interface (GUI)**: A user interface was designed to connect to the remote database. PHP was used to establish a connection with the database. This part focuses on providing specific services to end-users based on the database.
 
 ## ER Diagram and Database Schema
 
